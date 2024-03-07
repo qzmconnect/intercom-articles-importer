@@ -1,7 +1,7 @@
-EXPORT_ACCESS_TOKEN = "YOUR ACCESS TOKEN"
-IMPORT_ACCESS_TOKEN = "YOUR ACCESS TOKEN"
-COLLECTION_NAME = "YOUR COLLECTION NAME"
-AUTHOR_ID = "YOUR ADMIN ID"
+EXPORT_ACCESS_TOKEN = "dG9rOjYyYTJiYWU5X2U0ODRfNDRmZl84OTJhX2NkZDIzYmQ2ZDFlMToxOjA="
+IMPORT_ACCESS_TOKEN = "dG9rOjY1MTgyZmMzXzhjYWRfNGE5MF85NTQwXzc4NmY0YWVjM2VkMToxOjA6ZXUtd2VzdC0x"
+COLLECTION_NAME = "Some general questions we get asked"
+AUTHOR_ID = "50021097"
 
 
 #If you need to change URLS within your Articles that point to your old Helpcenter, fill in these fields. Otherwise, leave blank.
